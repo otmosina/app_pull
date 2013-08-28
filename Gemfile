@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+#0 string
 #i'm add some string
 
 gem 'rails', '3.2.12'
